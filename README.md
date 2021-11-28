@@ -1,1 +1,1 @@
-# viritua-credit-card
+# viritual-credit-card
